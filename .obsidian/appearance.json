@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "translucency": true,
+  "textFontFamily": "IBM Plex Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "interfaceFontFamily": "",
+  "showRibbon": false
+}

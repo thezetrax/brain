@@ -1,0 +1,10 @@
+{
+  "hideNavigateLeft": true,
+  "hideNavigateRight": true,
+  "hideNavigateUp": true,
+  "hideNavigateDown": true,
+  "hideCloseBtn": true,
+  "progressHeight": 5,
+  "leftAlignBullets": false,
+  "respectObsidianSettings": true
+}
