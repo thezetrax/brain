@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
       "LiDraftingCompass",
       "TiBooks",
       "RiPenNibFill",
-      "RiFontSize",
-      "RiStackFill"
+      "RiFontSize"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,7 +42,6 @@
   "aws/aws_partner": "RiAmazonFill",
   "aws/aws_technical": "RiAmazonFill",
   "design/typography": "RiFontSize",
-  "design": "RiPenNibFill",
   "books": "TiBooks",
   "Excalidraw": "LiDraftingCompass"
 }
