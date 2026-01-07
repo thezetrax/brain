@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a90567fb47348963",
+        "id": "83d8e76d0d072c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "cd542b4f46833f0b",
+            "id": "244f87aa96ee693f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "book-list.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Design/Resources.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "book-list"
-            }
-          },
-          {
-            "id": "286cf7ef47c1176f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Design/roadmap.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "roadmap"
+              "icon": "lucide-file",
+              "title": "Resources"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 242,
+    "collapsed": true
   },
   "right": {
     "id": "6ed6ed4a60d2e480",
@@ -202,9 +176,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c0034d26c05f1a65",
+  "active": "244f87aa96ee693f",
   "lastOpenFiles": [
-    "Design/Untitled.md",
+    "Design/Resources.md",
     "Design/roadmap.md",
     "JavaScript/roadmap.md",
     "README.md",
