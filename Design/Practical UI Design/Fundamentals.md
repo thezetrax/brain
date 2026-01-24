@@ -52,7 +52,7 @@
 
 ## Creating Design Systems
 
-### Pre-defined Style Options
+### 1. Pre-defined Style Options
 
 Having **pre-defined style options for color, text, spacing, and any style element in your product** will streamline the design process. Making the design decision process efficient for the designer and helping the team release design components faster. Pre-defined style options, aside from added design elements, refers to **text, color and spacing**.
 
@@ -70,14 +70,63 @@ Having **pre-defined style options for color, text, spacing, and any style eleme
 4. **Pre-define Other Style Elements**:
 	- Create sets of **pre-defined options** for any **style elements** you use, i.e. drop shadows, border-radius, gradient colors, etc...
 
-### Create reusable modules
+### 2. Create reusable modules
 
 - Creating Reusable modules means having **modular design**
 - **Modular design** refers to having **smaller, reusable, and replaceable parts** called **modules or components**
 - Modularity in design has been used to make different types of products is an integral part of making a solid design system.
 - Modularity is used to improve productivity, efficiency and consistency
+
 #### How to implement Modularity in Design
 
 1. Start by creating the smallest components **buttons, avatars, and form input fields**
 2. Compose small components to create large, more complex components
 3. Arrange components in specific layouts to create reusable page templates
+
+### 3. Define Usage Guidelines
+
+- Without clear usage guidelines, designers will not be able to design consistent
+product experience
+
+# Ensure Interface Accessibility
+
+- Accessibility is a responsibility for designers
+- We need to accommodate people with disabilities, such as **blindness, low vision, color blindness, motor impairment, and cognitive disabilities**
+- Try to provide comparable user experience for all users
+- Minimum requirement to meet WCAG 2.1 to level AA
+- Learn about how different people with disabilities use/access digital products
+- Good accessibility benefits all users, as any user can incur temporary or situational disability
+- Devices under direct sunlight can cause users to have difficulty reading, accessibility also helps in this case
+- **Good Accessibility = Good Usability**
+
+## Assistive Technologies
+
+Assistive technology is any device or software that helps people with disabilities to perform tasks. Assistive technology can include things like **screen readers, screen magnifiers, speech recognition software, and alternative input devices**.
+
+# Utilize Common/Conventional Design Patterns
+
+- **Jakob's Law**: It's safest to stick with patterns people are already familiar with.
+- **Example**: Accordion Components are a common design pattern users are already familiar with. Accordions enable the user to condense information into a scannable list that can expand to provide more information.
+- Building on people's existing **mental model**, understanding of how something works, means they wont need to spend extra time/effort to learn new ones.
+- Conventional Design Patterns reduce cognitive load for users.
+
+# 80/20 Rule
+
+- Known as the Pareto Principle, **80% of the effects come from 20% of the cause**
+- Relatively small number of things will have a relatively large impact
+- **Optimize your interface design to cater to the tasks most people will be doing**
+- *Don't spend time on edge cases, uncommon cases, that will rarely be used*
+
+# Keep Cost in Mind
+
+- Time is money, reuse as much as possible
+- Reuse Design Systems, Icon Sets, and UI Kits
+- Don't recreate an already existing convention
+
+# Be Consistent
+
+- Consistency in UI means similar elements work and behave the same
+- This should be true to your own product and other existing products
+- Predictability improves usability and reduces errors
+- Having **usage guideline** in a design system will help provide **visual and functional consistency**
+- When a product is released on a certain platform, i.e. Android, IOS, make sure to follow platform guidelines.
