@@ -4,24 +4,101 @@
     "type": "split",
     "children": [
       {
-        "id": "a90567fb47348963",
+        "id": "5d345d625277b674",
         "type": "tabs",
         "children": [
           {
-            "id": "db70c0b3237240ce",
+            "id": "d809185e7ea8d4da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Practical UI Design/Fundamentals.md",
+                "file": "Web/CSS/001_fundamentals/001_css_fundamentals.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Fundamentals"
+              "title": "001_css_fundamentals"
             }
           }
         ]
+      },
+      {
+        "id": "ea20d8094b52fb7d",
+        "type": "split",
+        "children": [
+          {
+            "id": "dbafd80be5fa1702",
+            "type": "tabs",
+            "dimension": 65.14522821576763,
+            "children": [
+              {
+                "id": "5d42871a9d255c53",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Web/CSS/001_fundamentals/001_css_fundamentals.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 4.97498218950368,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 166,
+                      "scale": 1.94239849948786,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 001_css_fundamentals"
+                }
+              }
+            ]
+          },
+          {
+            "id": "98c0140a3ac3e855",
+            "type": "tabs",
+            "dimension": 34.85477178423236,
+            "children": [
+              {
+                "id": "452cfb5ead879115",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Web/CSS/001_fundamentals/001_css_fundamentals.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 001_css_fundamentals"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,10 +130,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -78,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 258.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "6ed6ed4a60d2e480",
@@ -94,17 +172,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/Design for Developers.md",
+                "file": "Web/CSS/001_fundamentals/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design for Developers"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibliography/Design for Developers.md",
+                "file": "Web/CSS/001_fundamentals/selector-specificity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Design for Developers"
+              "title": "Outgoing links from selector-specificity"
             }
           },
           {
@@ -142,20 +220,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibliography/Design for Developers.md",
-                "followCursor": false,
+                "file": "Web/CSS/001_fundamentals/001_css_fundamentals.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design for Developers"
+              "title": "Outline of 001_css_fundamentals"
+            }
+          },
+          {
+            "id": "8297418615fb3bff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
+    "width": 307.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -172,47 +261,49 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c0034d26c05f1a65",
+  "active": "d809185e7ea8d4da",
   "lastOpenFiles": [
-    "book-list.md",
-    "Applied Psychology/Habits/Untitled.md",
-    "Design/Practical UI Design/Fundamentals.md",
-    "Design/Resources.md",
-    "Design/Untitled.md",
-    "Design/Practical UI Design",
-    "Design/roadmap.md",
-    "JavaScript/roadmap.md",
+    "Web/CSS/001_fundamentals/css-progressive-enhancement.md",
+    "Web/CSS/001_fundamentals/css-units.md",
+    "Web/CSS/001_fundamentals/001_css_fundamentals.md",
+    "Web/CSS/001_fundamentals/css-syntax.md",
+    "Web/CSS/001_fundamentals/css-declarations.md",
+    "Web/CSS/001_fundamentals/css-shorthand-properties.md",
+    "Web/CSS/001_fundamentals/css-cascade.md",
+    "Web/CSS/001_fundamentals/css-selectors.md",
+    "Web/CSS/001_fundamentals/css-special-values.md",
+    "Web/CSS/001_fundamentals/inheritance.md",
+    "Web/CSS/001_fundamentals/css-supports-rules.md",
+    "Web/chrome/index.md",
+    "Web/chrome/chrome-devtools.md",
+    "Web/CSS/001_fundamentals/cascade-resolution-criteria.md",
+    "Web/CSS/001_fundamentals/stylesheet-origin.md",
+    "Web/CSS/001_fundamentals/inline-styles.md",
+    "Web/CSS/001_fundamentals/selector-specificity.md",
+    "Web/CSS/001_fundamentals/source-order.md",
+    "Web/CSS/001_fundamentals/cascaded-value.md",
+    "Web/CSS/001_fundamentals/css-progressive-enhancements.md",
+    "Web/CSS/index.md",
+    "Web/CSS/001_fundamentals/shorthand-properties.md",
+    "Web/chrome",
+    "base.base",
     "README.md",
-    "Applied Psychology/Habits",
-    "Applied Psychology",
-    "JavaScript",
-    "Design",
-    "_incomplete",
-    "_templates",
-    "design/Design for Developers/color.md",
-    "design/Design for Developers/color/primary_secondary_and_tertiary_colors.md",
-    "design/Design for Developers/color/color_psychology.md",
-    "design/Design for Developers/color/tint_shade_and_tone.md",
-    "Bibliography/Design for Developers.md",
-    "design/Design for Developers/color",
-    "design/Design for Developers/color/contrast.md",
-    "documents/touch",
-    "design/Design for Developers/color/color_weights.md",
-    "design/Design for Developers/color/analogous_and_complimentary_color.md",
-    "design/Design for Developers/color/saturation.md",
-    "design/Design for Developers/color/color_hues_and_temperature.md",
-    "Bibliography/Bibliography.md",
-    "design/Design for Developers/layout.md",
-    "design/Design for Developers/type.md",
-    "design/Design for Developers/Website Design.md",
-    "design/Design for Developers",
-    "design/Untitled.md",
-    "design/typography/kerning.md",
-    "design/typography/leading.md",
-    "design/typography/font.md",
+    "sources/@grant2024.md",
+    "Design/Practical UI Design/Less is More.md",
+    "book-list.md",
+    "sources/references.bib",
+    "Web/CSS/001_fundamentals/cascade-resolution-criteria",
+    "Web/CSS/005_motion",
+    "Web/CSS/004_visual_improvements",
+    "Web/CSS/003_code_organization",
+    "Web/CSS/002_layouts",
+    "Web/CSS/001_fundamentals",
+    "Web/CSS/CSS",
     "aws/aws_partner/attachments/Pasted image 20241113112239.png",
     "aws/aws_partner/attachments/Pasted image 20241113104448.png",
     "aws/aws_partner/attachments/Pasted image 20241114154400.png",

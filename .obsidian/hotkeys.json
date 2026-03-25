@@ -57,6 +57,12 @@
         "Mod"
       ],
       "key": ","
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
     }
   ],
   "app:go-forward": [
@@ -73,6 +79,12 @@
         "Mod"
       ],
       "key": "."
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
     }
   ],
   "editor:focus": [
@@ -102,5 +114,7 @@
       "key": "\\"
     }
   ],
-  "file-explorer:new-file": []
+  "file-explorer:new-file": [],
+  "switcher:open": [],
+  "editor:toggle-italics": []
 }

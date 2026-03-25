@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "",
+  "accentColor": "#969696",
+  "cssTheme": "Obsidian Nord",
   "theme": "system",
   "translucency": true,
   "textFontFamily": "IBM Plex Mono",
@@ -8,5 +8,5 @@
   "showViewHeader": true,
   "nativeMenus": true,
   "interfaceFontFamily": "",
-  "showRibbon": false
+  "showRibbon": true
 }

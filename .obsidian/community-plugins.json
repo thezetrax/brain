@@ -12,5 +12,7 @@
   "obsidian-excalidraw-plugin",
   "custom-slides",
   "obsidian-better-command-palette",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "templater-obsidian",
+  "obsidian-citation-plugin"
 ]
