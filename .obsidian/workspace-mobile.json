@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "07af6ad373f91337",
+    "type": "split",
+    "children": [
+      {
+        "id": "040a5007566d48ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1382d77f844aa73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin/Readme.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "e21c3f3a9c5dada3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/CSS/001_fundamentals/css-units.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "css-units"
+            }
+          },
+          {
+            "id": "1e858d428601ee3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Git/Got Submodules.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Got Submodules"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c01ecdf65b3a8dc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb007841ed164cad",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Web/CSS/001_fundamentals/css-units.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0935c6dd4e8380f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da1a8d153df7dc99",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d5fdaeb32d9ac28c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ab26f2a69ddad5f1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "8cb0799ab27d7bc8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5012ad8a224e6feb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d8dba0b4167e92a6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Web/CSS/001_fundamentals/css-units.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b150189e34ecfdb9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "JavaScript/roadmap.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fc7e5e4f00438f1b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "JavaScript/roadmap.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "1e858d428601ee3b",
+  "lastOpenFiles": [
+    "sources/victorbruce-gitsunmodules.md",
+    "Tools/Git/Got Submodules.md",
+    "Tools/Git",
+    "Web/CSS/001_fundamentals/css-units.md",
+    "Tools",
+    "Web/CSS/001_fundamentals/css-responsive-design.md",
+    "Web/CSS/001_fundamentals/001_css_fundamentals.md",
+    "Web/CSS/001_fundamentals/css-progressive-enhancement.md",
+    "Web/CSS/001_fundamentals/inheritance.md",
+    "Web/CSS/001_fundamentals/em-rem-units.md",
+    "Web/CSS/index.md",
+    "Web/CSS/001_fundamentals/css-cascade.md",
+    "Kotlin/Readme.md",
+    "JavaScript/roadmap.md",
+    "Web/CSS/001_fundamentals/source-order.md",
+    "Web/CSS/001_fundamentals/cascade-resolution-criteria.md",
+    "Web/CSS/001_fundamentals/cascaded-value.md",
+    "Web/CSS/001_fundamentals/css-syntax.md",
+    "Web/CSS/001_fundamentals/css-selectors.md",
+    "Web/CSS/001_fundamentals/css-declarations.md",
+    "Web/CSS/001_fundamentals/css-shorthand-properties.md",
+    "Web/CSS/001_fundamentals/css-late-binding.md",
+    "sources/references.bib",
+    "sources/cssdef-2023.md",
+    "sources/@grant2024.md",
+    "sources",
+    "base.base",
+    "_templates/source.md",
+    "_templates/kanban-tempalte.md",
+    "_templates/daily-notes-template.md",
+    "_templates",
+    "Web/chrome/index.md",
+    "Web/chrome",
+    "Web/CSS/001_fundamentals",
+    "Web/CSS",
+    "Web"
+  ]
+}
