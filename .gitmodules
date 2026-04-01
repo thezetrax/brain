@@ -1,0 +1,3 @@
+[submodule "cabinate"]
+	path = cabinate
+	url = https://github.com/thezetrax/cabinate.git
