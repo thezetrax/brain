@@ -6,7 +6,6 @@
       {
         "id": "5d345d625277b674",
         "type": "tabs",
-        "dimension": 61.735537190082646,
         "children": [
           {
             "id": "d809185e7ea8d4da",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
+                "file": "sources/@grant2024.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wednesday-1st-April-2026"
+              "title": "@grant2024"
             }
           }
         ]
@@ -27,12 +26,10 @@
       {
         "id": "ea20d8094b52fb7d",
         "type": "split",
-        "dimension": 38.264462809917354,
         "children": [
           {
             "id": "dbafd80be5fa1702",
             "type": "tabs",
-            "dimension": 65.14522821576763,
             "children": [
               {
                 "id": "5d42871a9d255c53",
@@ -40,10 +37,10 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
+                    "file": "sources/@grant2024.md",
                     "options": {
-                      "collapse-filter": true,
-                      "search": "",
+                      "collapse-filter": false,
+                      "search": "-file:index",
                       "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
@@ -54,21 +51,21 @@
                       "collapse-color-groups": true,
                       "colorGroups": [],
                       "collapse-display": true,
-                      "showArrow": true,
+                      "showArrow": false,
                       "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 4.97498218950368,
+                      "lineSizeMultiplier": 1,
                       "collapse-forces": true,
                       "centerStrength": 0.518713248970312,
                       "repelStrength": 10,
                       "linkStrength": 1,
-                      "linkDistance": 166,
-                      "scale": 1.94239849948786,
+                      "linkDistance": 250,
+                      "scale": 1,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Wednesday-1st-April-2026"
+                  "title": "Graph of @grant2024"
                 }
               }
             ]
@@ -76,7 +73,6 @@
           {
             "id": "98c0140a3ac3e855",
             "type": "tabs",
-            "dimension": 34.85477178423236,
             "children": [
               {
                 "id": "452cfb5ead879115",
@@ -84,8 +80,8 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
-                    "collapseAll": true,
+                    "file": "sources/@grant2024.md",
+                    "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
@@ -94,7 +90,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Wednesday-1st-April-2026"
+                  "title": "Backlinks for @grant2024"
                 }
               }
             ]
@@ -157,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.50390243530273
+    "width": 286.50390243530273
   },
   "right": {
     "id": "6ed6ed4a60d2e480",
@@ -221,31 +217,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
-                "followCursor": true,
+                "file": "Web/CSS/001_fundamentals/css-shorthand-properties.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wednesday-1st-April-2026"
-            }
-          },
-          {
-            "id": "8297418615fb3bff",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of selector-specificity"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -269,42 +254,42 @@
   },
   "active": "d809185e7ea8d4da",
   "lastOpenFiles": [
-    "cabinate/Daily/Sunday-29th-March-2026.md",
+    "Web/CSS/001_fundamentals/css-syntax.md",
+    "sources/@grant2024.md",
+    "Web/CSS/001_fundamentals/em-rem-units.md",
+    "Web/CSS/001_fundamentals/css-layout-trashing.md",
+    "Web/CSS/1",
+    "_incomplete/css-layout-trashing.md",
+    "Web/CSS/001_fundamentals/viewport-units.md",
+    "_incomplete/viewport-units.md",
+    "Web/CSS/001_fundamentals/css-units.md",
+    "Web/CSS/001_fundamentals/css-responsive-design.md",
+    "Web/CSS/001_fundamentals/001_css_fundamentals.md",
+    "Web/CSS/index.md",
+    "base.base",
+    "README.md",
     "cabinate/Daily/Wednesday-1st-April-2026.md",
+    "scripts",
+    "cabinate/Daily/Sunday-29th-March-2026.md",
     "sources/victorbruce-gitsunmodules.md",
     "Tools/Git/Got Submodules.md",
     "Tools/Git",
     "Tools",
     "cabinate/Readme.md",
     "cabinate",
-    "Web/CSS/001_fundamentals/em-rem-units.md",
-    "Web/CSS/001_fundamentals/001_css_fundamentals.md",
-    "Web/CSS/001_fundamentals/css-responsive-design.md",
     "Web/CSS/001_fundamentals/css-late-binding.md",
     "Web/CSS/001_fundamentals/cascade-resolution-criteria.md",
     "Web/CSS/001_fundamentals/inline-styles.md",
     "Web/CSS/001_fundamentals/css-cascade.md",
     "Web/CSS/001_fundamentals/css-progressive-enhancement.md",
-    "Web/CSS/001_fundamentals/css-syntax.md",
     "Web/CSS/001_fundamentals/css-declarations.md",
     "Web/CSS/001_fundamentals/inheritance.md",
-    "Web/CSS/001_fundamentals/css-units.md",
     "Web/CSS/001_fundamentals/css-shorthand-properties.md",
     "Web/CSS/001_fundamentals/css-selectors.md",
-    "Web/CSS/001_fundamentals/css-special-values.md",
-    "Web/CSS/001_fundamentals/css-supports-rules.md",
-    "Web/chrome/index.md",
-    "Web/chrome/chrome-devtools.md",
-    "Web/CSS/001_fundamentals/stylesheet-origin.md",
-    "Web/CSS/001_fundamentals/selector-specificity.md",
-    "Web/CSS/001_fundamentals/source-order.md",
     "Web/chrome",
-    "base.base",
     "sources/references.bib",
     "Web/CSS/001_fundamentals/cascade-resolution-criteria",
     "Web/CSS/005_motion",
-    "Web/CSS/004_visual_improvements",
-    "Web/CSS/003_code_organization",
     "aws/aws_partner/attachments/Pasted image 20241113112239.png",
     "aws/aws_partner/attachments/Pasted image 20241113104448.png",
     "aws/aws_partner/attachments/Pasted image 20241114154400.png",

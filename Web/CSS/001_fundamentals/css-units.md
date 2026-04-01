@@ -17,8 +17,8 @@
   - User's screen configuration, and settings are always different from one another
 - _relative units_ are the primary tool for creating [[css-responsive-design]] and [[css-accessibility]]
 - Modern & common relative units are
-  - [[em-rem-units]]
-  - [[viewport-units]]
+  - [[em-rem-units]] relative units based on font size
+  - [[viewport-units]] relative units based on viewport size
   - [[percentage-units]]
 
 [@grant2024] p. 65
