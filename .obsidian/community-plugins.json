@@ -3,7 +3,6 @@
   "obsidian-reading-time",
   "obsidian-languagetool-plugin",
   "obsidian-icon-folder",
-  "obsidian-git",
   "better-export-pdf",
   "break-page",
   "obsidian-advanced-slides",
@@ -14,5 +13,6 @@
   "obsidian-better-command-palette",
   "obsidian-kanban",
   "templater-obsidian",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "obsidian-git"
 ]

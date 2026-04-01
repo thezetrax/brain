@@ -8,5 +8,6 @@
   "showViewHeader": true,
   "nativeMenus": true,
   "interfaceFontFamily": "",
-  "showRibbon": true
+  "showRibbon": true,
+  "slidingSidebar": false
 }
