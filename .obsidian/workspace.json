@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Sunday-29th-March-2026.md",
+                "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sunday-29th-March-2026"
+              "title": "Wednesday-1st-April-2026"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Daily/Sunday-29th-March-2026.md",
+                    "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -68,7 +68,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Sunday-29th-March-2026"
+                  "title": "Graph of Wednesday-1st-April-2026"
                 }
               }
             ]
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Daily/Sunday-29th-March-2026.md",
+                    "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Sunday-29th-March-2026"
+                  "title": "Backlinks for Wednesday-1st-April-2026"
                 }
               }
             ]
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.50390243530273,
-    "collapsed": true
+    "width": 258.50390243530273
   },
   "right": {
     "id": "6ed6ed4a60d2e480",
@@ -222,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Sunday-29th-March-2026.md",
+                "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sunday-29th-March-2026"
+              "title": "Outline of Wednesday-1st-April-2026"
             }
           },
           {
@@ -270,11 +269,16 @@
   },
   "active": "d809185e7ea8d4da",
   "lastOpenFiles": [
+    "cabinate/Daily/Sunday-29th-March-2026.md",
+    "cabinate/Daily/Wednesday-1st-April-2026.md",
+    "sources/victorbruce-gitsunmodules.md",
+    "Tools/Git/Got Submodules.md",
+    "Tools/Git",
+    "Tools",
     "cabinate/Readme.md",
     "cabinate",
     "Web/CSS/001_fundamentals/em-rem-units.md",
     "Web/CSS/001_fundamentals/001_css_fundamentals.md",
-    "Daily/Sunday-29th-March-2026.md",
     "Web/CSS/001_fundamentals/css-responsive-design.md",
     "Web/CSS/001_fundamentals/css-late-binding.md",
     "Web/CSS/001_fundamentals/cascade-resolution-criteria.md",
@@ -294,9 +298,6 @@
     "Web/CSS/001_fundamentals/stylesheet-origin.md",
     "Web/CSS/001_fundamentals/selector-specificity.md",
     "Web/CSS/001_fundamentals/source-order.md",
-    "Web/CSS/001_fundamentals/cascaded-value.md",
-    "Web/CSS/001_fundamentals/css-progressive-enhancements.md",
-    "Web/CSS/index.md",
     "Web/chrome",
     "base.base",
     "sources/references.bib",
@@ -304,8 +305,6 @@
     "Web/CSS/005_motion",
     "Web/CSS/004_visual_improvements",
     "Web/CSS/003_code_organization",
-    "Web/CSS/002_layouts",
-    "Web/CSS/001_fundamentals",
     "aws/aws_partner/attachments/Pasted image 20241113112239.png",
     "aws/aws_partner/attachments/Pasted image 20241113104448.png",
     "aws/aws_partner/attachments/Pasted image 20241114154400.png",
