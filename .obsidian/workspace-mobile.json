@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cabinate/Daily/Sunday-8th-March-2026.md",
+                "file": "cabinate/Daily/Wednesday-1st-April-2026.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sunday-8th-March-2026"
+              "title": "Wednesday-1st-April-2026"
             }
           }
         ]
@@ -161,8 +161,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "da1a8d153df7dc99",
+  "active": "0f7187234d1f8fa4",
   "lastOpenFiles": [
+    "cabinate/Daily/Sunday-8th-March-2026.md",
     "cabinate/Daily/Sunday-29th-March-2026.md",
     "cabinate/Daily/Wednesday-1st-April-2026.md",
     "cabinate/Daily/Monday-9th-February-2026.md",
@@ -191,7 +192,6 @@
     "Web/CSS/001_fundamentals/css-selectors.md",
     "Web/CSS/001_fundamentals/css-declarations.md",
     "Web/CSS/001_fundamentals/css-shorthand-properties.md",
-    "Web/CSS/001_fundamentals/css-late-binding.md",
     "sources/references.bib",
     "sources",
     "base.base",
