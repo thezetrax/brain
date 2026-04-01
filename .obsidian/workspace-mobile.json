@@ -4,93 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "040a5007566d48ab",
+        "id": "af54a1cc84862680",
         "type": "tabs",
         "children": [
           {
-            "id": "1382d77f844aa73a",
+            "id": "0f7187234d1f8fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Readme.md",
+                "file": "cabinate/Daily/Sunday-8th-March-2026.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "e21c3f3a9c5dada3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/CSS/001_fundamentals/css-units.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "css-units"
-            }
-          },
-          {
-            "id": "1e858d428601ee3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Git/Got Submodules.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Got Submodules"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c01ecdf65b3a8dc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb007841ed164cad",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Web/CSS/001_fundamentals/css-units.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Sunday-8th-March-2026"
             }
           }
         ]
@@ -233,12 +161,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1e858d428601ee3b",
+  "active": "da1a8d153df7dc99",
   "lastOpenFiles": [
-    "sources/victorbruce-gitsunmodules.md",
-    "Tools/Git/Got Submodules.md",
-    "Tools/Git",
+    "cabinate/Daily/Sunday-29th-March-2026.md",
+    "cabinate/Daily/Wednesday-1st-April-2026.md",
+    "cabinate/Daily/Monday-9th-February-2026.md",
+    "cabinate/Daily/Tuesday-10th-February-2026.md",
+    "Kotlin/Readme.md",
     "Web/CSS/001_fundamentals/css-units.md",
+    "cabinate/Daily/Tuesday-31st-March-2026.md",
+    "Web/CSS/001_fundamentals/selector-specificity.md",
+    "Daily",
+    "Tools/Git/Got Submodules.md",
+    "sources/victorbruce-gitsunmodules.md",
+    "Tools/Git",
     "Tools",
     "Web/CSS/001_fundamentals/css-responsive-design.md",
     "Web/CSS/001_fundamentals/001_css_fundamentals.md",
@@ -247,7 +183,6 @@
     "Web/CSS/001_fundamentals/em-rem-units.md",
     "Web/CSS/index.md",
     "Web/CSS/001_fundamentals/css-cascade.md",
-    "Kotlin/Readme.md",
     "JavaScript/roadmap.md",
     "Web/CSS/001_fundamentals/source-order.md",
     "Web/CSS/001_fundamentals/cascade-resolution-criteria.md",
@@ -258,18 +193,11 @@
     "Web/CSS/001_fundamentals/css-shorthand-properties.md",
     "Web/CSS/001_fundamentals/css-late-binding.md",
     "sources/references.bib",
-    "sources/cssdef-2023.md",
-    "sources/@grant2024.md",
     "sources",
     "base.base",
-    "_templates/source.md",
-    "_templates/kanban-tempalte.md",
-    "_templates/daily-notes-template.md",
     "_templates",
-    "Web/chrome/index.md",
     "Web/chrome",
     "Web/CSS/001_fundamentals",
-    "Web/CSS",
-    "Web"
+    "Web/CSS"
   ]
 }
