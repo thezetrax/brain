@@ -2,7 +2,7 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "sources",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthor: {{authorString}}\nyear: {{year}}\nnote: {{note}}\n---\n\n",
+  "literatureNoteContentTemplate": "---\ntype: {{#if URL}}online{{else}}book{{/if}}\ntitle: {{title}}\nauthor: {{authorString}}\n{{#if year}}year: {{year}}{{/if}}{{#if URL}}url: {{URL}}{{/if}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "./sources/references.bib"

@@ -17,7 +17,7 @@
 
 - When using viewport units it's important to be aware of [[css-layout-trashing]]
 - _layout trashing_ occurs when the size of the viewport changes dynamically
-- since viewport units are relative to the size of the viewport, any cahnge to the viewport size will cause a recalculation of the layout, which can lead to performance issues
+- since viewport units are relative to the size of the viewport, any change to the viewport size will cause a recalculation of the layout, which can lead to performance issues
 - Dynamic changes to the viewport also occur on **mobile browsers**, causing _layout trashing_
 - Dynamic changes to the viewport can occur on the following events
   - user resizes the browser window (mostly on desktop)
@@ -30,26 +30,15 @@
 
 - To solve unexpected layout trashing when using viewport units
 - CSS has derived units that are restrict to a specific context, preventing layout trashing
-- These units are **small viewport units** and **large viewport units**
+- These units are [[css-large-small-viewport-units]] and [[css-dynamic-viewport-units]]
 
-## Large/Small Viewport Units
+## Caveats with Viewport Units
 
-- Large viewport unit refers to the viewport size when all the UX elements are hidden, and the viewport is at it's largest size
-- Small viewport unit refers to the viewport size when all the UX elements are visible, and the viewport is at it's smallest size
-- Small viewport unit refers to the viewport size at it's smallest
-- _Large viewport units_ have the prefix `l` and _small viewport units_ have the prefix `s`
-- Large Viewport Units: `lvw`, `lvh`, `lvmin`, `lvmax`
-- Small Viewport Units: `svw`, `svh`, `svmin`, `svmax`
-
-### Dynamic Viewport Units
-
-- If the default behavior of viewport units is desired we can use _dynamic viewport unit_
-- Dynamic viewport unit sets the value to the current size of the viewport at the time of evaluation, and does not change when the viewport size changes after evaluation
-- Dynamic viewport units have the prefix `d`
-
-#### Question
-
-- Does the viewport size change after evaluation
-- Does the re-calculation continue after the first evaluation, or does it stop after the first evaluation?
+- They don't take scrollbars into account
+  - `100vw` will not include the size of the vertical scrollbar into account
+  - causes _horizontal scrolling_, which is an unexpected behavior for users
+- They don't take on-screen keyboards into account
+  - CSS has not defined way of detecting if the on-screen keyboard is visible or not
+  - Especially on mobile
 
 [@grant2024] ch. 2.4

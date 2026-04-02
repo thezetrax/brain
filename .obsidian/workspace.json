@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/@grant2024.md",
+                "file": "Web/CSS/001_fundamentals/css-dynamic-viewport-units.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "@grant2024"
+              "title": "css-dynamic-viewport-units"
             }
           }
         ]
@@ -30,6 +30,7 @@
           {
             "id": "dbafd80be5fa1702",
             "type": "tabs",
+            "dimension": 45.265151515151516,
             "children": [
               {
                 "id": "5d42871a9d255c53",
@@ -37,7 +38,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sources/@grant2024.md",
+                    "file": "Web/CSS/001_fundamentals/css-dynamic-viewport-units.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file:index",
@@ -65,7 +66,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of @grant2024"
+                  "title": "Graph of css-dynamic-viewport-units"
                 }
               }
             ]
@@ -73,6 +74,7 @@
           {
             "id": "98c0140a3ac3e855",
             "type": "tabs",
+            "dimension": 54.734848484848484,
             "children": [
               {
                 "id": "452cfb5ead879115",
@@ -80,7 +82,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "sources/@grant2024.md",
+                    "file": "Web/CSS/001_fundamentals/css-dynamic-viewport-units.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -90,7 +92,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for @grant2024"
+                  "title": "Backlinks for css-dynamic-viewport-units"
                 }
               }
             ]
@@ -254,13 +256,19 @@
   },
   "active": "d809185e7ea8d4da",
   "lastOpenFiles": [
-    "Web/CSS/001_fundamentals/css-syntax.md",
+    "Web/CSS/001_fundamentals/viewport-units.md",
     "sources/@grant2024.md",
+    "Web/CSS/001_fundamentals/css-dynamic-viewport-units.md",
+    "sources/@webdev-viewport-units.md",
+    "_incomplete/Untitled.md",
+    "Web/CSS/001_fundamentals/css-large-small-viewport-units.md",
+    "_incomplete/css-dynamic-viewport-units.md",
+    "_incomplete/css-large-small-viewport-units.md",
+    "Web/CSS/001_fundamentals/css-syntax.md",
     "Web/CSS/001_fundamentals/em-rem-units.md",
     "Web/CSS/001_fundamentals/css-layout-trashing.md",
     "Web/CSS/1",
     "_incomplete/css-layout-trashing.md",
-    "Web/CSS/001_fundamentals/viewport-units.md",
     "_incomplete/viewport-units.md",
     "Web/CSS/001_fundamentals/css-units.md",
     "Web/CSS/001_fundamentals/css-responsive-design.md",
@@ -280,12 +288,6 @@
     "Web/CSS/001_fundamentals/css-late-binding.md",
     "Web/CSS/001_fundamentals/cascade-resolution-criteria.md",
     "Web/CSS/001_fundamentals/inline-styles.md",
-    "Web/CSS/001_fundamentals/css-cascade.md",
-    "Web/CSS/001_fundamentals/css-progressive-enhancement.md",
-    "Web/CSS/001_fundamentals/css-declarations.md",
-    "Web/CSS/001_fundamentals/inheritance.md",
-    "Web/CSS/001_fundamentals/css-shorthand-properties.md",
-    "Web/CSS/001_fundamentals/css-selectors.md",
     "Web/chrome",
     "sources/references.bib",
     "Web/CSS/001_fundamentals/cascade-resolution-criteria",
